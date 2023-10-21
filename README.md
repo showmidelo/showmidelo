@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div id="header" align="center">
+  <img src="https://miro.medium.com/v2/resize:fit:720/1*Owa2rsDG6Rwv1IM_RdsL3A.gif" width="100"/>
+</div>
+
 <!--
 **showmidelo/showmidelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
