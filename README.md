@@ -14,6 +14,8 @@
 
 - 📊 I’m a Data Scientist who work in automobile manufacturing and love to analyze data and deploy machine learning models to predict and classify.
 
+- 🧑‍🏫 I'm graduated from Applied Mathematics and currently I'm Studying Computer Science (Data Mining) for Master's Degree in Shahid Beheshti university.
+
 - 🎓 As a volunteer I teach Data Analysis, Machine Learning , Python, SQL and OOP programming to children and students from all over Iran with help of Karyar Institue (An online platform that wants to connect people with low budget of money to workplace)
 
 - 🎮 In my free time, I love to watch movies and series and play games to free my mind, I love technology and anything related to it as well.
@@ -37,6 +39,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" **alt="Docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>
 </div>
 
 ---
