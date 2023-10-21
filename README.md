@@ -47,10 +47,14 @@
 
 ### 🔥 My Stats :
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=showmidelo&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=showmidelo&theme=onedark&background=000000)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showmidelo&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=showmidelo&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Trophy Level](https://github-profile-trophy.vercel.app/?username=showmidelo&theme=onedark&row=1&column=4)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **showmidelo/showmidelo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
