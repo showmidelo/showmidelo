@@ -5,8 +5,11 @@
   <img src="https://chools.in/wp-content/uploads/DS_6-1.gif" width="500"/>
 </div>
 
-<img  src="https://komarev.com/ghpvc/?username=showmidelo&style=flat-square&color=blue" alt="" align="center"/>
+<div id="header" align="center">
+  <img src="https://komarev.com/ghpvc/?username=showmidelo&style=flat-square&color=blue" width="100"/>
+</div>
 
+--- 
 ### Hi there 👋
 
 - 📊 I’m a Data Scientist who work in automobile manufacturing and love to analyze data and deploy machine learning models to predict and classify.
@@ -16,6 +19,16 @@
 - 🎮 In my free time, I love to watch movies and series and play games to free my mind, I love technology and anything related to it as well.
 
 <!-- - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](your-linkedin-url) -->
+
+---
+
+### 🛠️ Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 ---
 
